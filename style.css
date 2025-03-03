@@ -27,7 +27,7 @@ button:hover {
 
 #lock {
     background-image: image(url("/home/user/.config/wlogout/icons/lock.png"));
-    background-size: 70%;
+    background-size: 40%;
 }
 
 #logout {
